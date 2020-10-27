@@ -108,3 +108,7 @@ if(name == "Bob")
   }
   let x = [ {human: {name: 'Daena', age: 31} } ][0].human.age
   console.log(x)
+
+
+  let x = [ human: 
+        ]
